@@ -8,7 +8,12 @@
 
 An immersive 3D showcase website for the MacBook Pro featuring interactive 3D models, scroll-driven animations, and responsive design.
 
-![MacBook Pro Showcase Preview](/public/preview.png)
+## 🖼️ Preview
+
+<div style="display: flex; gap: 10px;">
+  <img src="preview/preview-1.png" alt="MacBook Pro Showcase Preview 1" width="45%" />
+  <img src="preview/preview-2.png" alt="MacBook Pro Showcase Preview 2" width="45%" />
+</div>
 
 ## 🌟 Features
 
@@ -238,16 +243,16 @@ The website is fully responsive and adapts to different screen sizes:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is proprietary and confidential. All rights reserved.
-
-## 👥 Author
+## 👤 Author
 
 **Mausam Kar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mausam-kar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mausam-kar)
+
+## 📄 License
+
+This project is proprietary and confidential. All rights reserved.
 
 ---
 
